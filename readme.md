@@ -2,7 +2,7 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-The Blitz Recipe for installing Commitizen with CommitLint.
+The Blitz.js Recipe for installing Commitizen with CommitLint.
 
 ```sh
 blitz install custom-recipes/conventional-commits -y
